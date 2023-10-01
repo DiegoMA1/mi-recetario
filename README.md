@@ -67,8 +67,8 @@ Email: diegomx2@hotmail.com
 Discord: diegolas212
 
 ## Acknowledgements
-[Next.js]([https://website-name.com](https://nextjs.org/))
-[Next UI]([https://website-name.com](https://nextui.org/)) for UI components
+* [Next.js](https://nextjs.org/)
+* [Next UI](https://nextui.org/) for UI components
 
 ## Changelog
 No changelog available at the moment.
